@@ -5,7 +5,7 @@ import android.net.Uri;
 
 public class NewsApiCredential {
 
-    private static final String newsApiUrl = "https://content.guardianapis.com/search?&show-tags=contributor&api-key=test";
+    private static final String newsApiUrl = "place your url here";
     private static final String api = "API_KEYS";
 
     static Uri.Builder UriPath(Context context) {
