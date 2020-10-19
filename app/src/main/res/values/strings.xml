@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuardianNews</string>
+    <string name="guardian_news">Guardian News</string>
+    <string name="networkMsg">No internet connectivity! Try Again</string>
+    <string name="menu_item">menu_item</string>
+    <string name="refresh">Refresh</string>
+    <string name="exit">Exit</string>
+    <string name="update_msg">Updated Now</string>
+
+</resources>
